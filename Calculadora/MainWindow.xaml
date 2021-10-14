@@ -42,7 +42,7 @@
             <Setter Property="Grid.ColumnSpan"
                     Value="3" />
         </Style>
-        <Style TargetType="{x:Type TextBox}">
+        <Style TargetType="{x:Type TextBlock}">
             <Setter Property="TextAlignment"
                     Value="Center" />
         </Style>
